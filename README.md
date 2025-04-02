@@ -11,12 +11,4 @@ Follow my journey to become an Azure MVP.
 📦 Sharing practical tools, templates, and real-world examples  
 💬 Always open to questions, curiosity should be rewarded!
 
----
-
-## 🔗 Connect With Me
-
-- 🐙 [GitHub](https://github.com/kakashidota)
-- 🎥 [YouTube – @kakashidota](https://youtube.com/@kakashidota)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kakashidota/)
-
 📫 _Feel free to reach out — I'm always happy to support curious learners._
