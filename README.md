@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hey there, I'm Robin Kamo
 
-<!--
-**kakashidota/kakashidota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer by day, teacher and mentor by night.**  
+I create open-source learning resources focused on Azure, DevOps, .NET, automation, and cloud-native development.
 
-Here are some ideas to get you started:
+🎓 Over 2,000 students taught  
+💡 Passionate about learning by doing  
+📦 Sharing practical tools, templates, and real-world examples  
+💬 Always open to questions, curiosity should be rewarded!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Working On
+
+- Beginner-friendly Azure & DevOps starter kits
+- Docker + CI/CD templates
+- Terraform & Bicep infrastructure modules
+- AZ-900 and developer certification prep materials
+- Machine Learning examples for .NET and Python
+- A new community learning platform (coming soon 👀)
+
+---
+
+## 📊 GitHub Stats
+
+![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kakashidota&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakashidota&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakashidota&theme=dark)
+
+---
+
+## 🔗 Connect With Me
+
+- 🐙 [GitHub](https://github.com/kakashidota)
+- 🎥 [YouTube – @kakashidota](https://youtube.com/@kakashidota)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kakashidota/)
+
+---
+
+## 🛠 Tech Stack
+
+**Cloud & DevOps**: Azure · Docker · GitHub Actions · Azure DevOps  
+**Languages**: C# · Python · JavaScript  
+**Infrastructure as Code**: Terraform · Bicep  
+**Extras**: ML.NET · RPA · Cybersecurity · .NET 8 · SQL Server
+
+---
+
+📫 _Feel free to reach out — I'm always happy to support curious learners._
