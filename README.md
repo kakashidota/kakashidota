@@ -21,14 +21,6 @@ I create open-source learning resources focused on Azure, DevOps, .NET, automati
 
 ---
 
-## 📊 GitHub Stats
-
-![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kakashidota&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakashidota&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakashidota&theme=dark)
-
----
-
 ## 🔗 Connect With Me
 
 - 🐙 [GitHub](https://github.com/kakashidota)
