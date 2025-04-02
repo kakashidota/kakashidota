@@ -1,4 +1,5 @@
 # 👋 Hey there, I'm Robin Kamo
+https://komarev.com/ghpvc/?username=kakashidota
 
 **DevOps Engineer by day, teacher and mentor by night.**  
 I create open-source learning resources focused on Azure, DevOps, .NET, automation, and cloud-native development.
