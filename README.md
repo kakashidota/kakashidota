@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Robin Kamo. #RoadToMVP
 ![Profile views](https://komarev.com/ghpvc/?username=kakashidota&label=Profile%20views&color=0e75b6&style=flat)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakashidota)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kakashidota&theme=dark)](https://git.io/streak-stats)
 
 
 
