@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Robin Kamo
+# 👋 Hey there, I'm Robin Kamo. Follow me on my road to Microsoft MVP
 ![Profile views](https://komarev.com/ghpvc/?username=kakashidota&label=Profile%20views&color=0e75b6&style=flat)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakashidota)
