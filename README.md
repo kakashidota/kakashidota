@@ -12,7 +12,8 @@ Follow my journey to become an Azure MVP.
 💬 Always open to questions, curiosity should be rewarded!
 
 Join our Dev community, 
-PotatoTech By KakashiDota: https://discord.gg/khq42sqHCM
+PotatoTech By KakashiDota: https://discord.gg/khq42sqHCM | https://www.linkedin.com/groups/10078328/
+
 
 📫 _Feel free to reach out — I'm always happy to support curious learners._
 
