@@ -14,7 +14,6 @@ Follow my journey to become an Azure MVP.
 Join our Dev community,   
 PotatoTech By KakashiDota: https://discord.gg/khq42sqHCM | https://www.linkedin.com/groups/10078328/
 
-
 📫 _Feel free to reach out — I'm always happy to support curious learners._
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kakashidota&theme=dark)](https://git.io/streak-stats)
