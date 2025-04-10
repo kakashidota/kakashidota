@@ -1,10 +1,10 @@
-# 👋 Hey there, I'm Robin Kamo. #RoadToMVP
+# 👋 Hey there, I'm Robin Kamo. Follow me on the journey to become Microsoft MVP. #RoadToMVP
 ![Profile views](https://komarev.com/ghpvc/?username=kakashidota&label=Profile%20views&color=0e75b6&style=flat)
 
 
 **DevOps Engineer by day, teacher and mentor by night.**  
 I create open-source learning resources focused on Azure, DevOps, .NET, automation, and cloud-native development.
-Follow my journey to become an Azure MVP.
+Follow my journey to become an Azure MVP. 
 
 🎓 Over 2,000 students taught  
 💡 Passionate about learning by doing  
