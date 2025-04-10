@@ -16,4 +16,4 @@ PotatoTech By KakashiDota: https://discord.gg/khq42sqHCM | https://www.linkedin.
 
 📫 _Feel free to reach out — I'm always happy to support curious learners._
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kakashidota&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
