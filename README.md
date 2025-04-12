@@ -15,5 +15,3 @@ Join our Dev community,
 PotatoTech By KakashiDota: https://discord.gg/khq42sqHCM | https://www.linkedin.com/groups/10078328/
 
 📫 _Feel free to reach out — I'm always happy to support curious learners._
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kakashidota)](https://git.io/streak-stats)
