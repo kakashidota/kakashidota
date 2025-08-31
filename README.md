@@ -6,7 +6,7 @@
 **DevOps Engineer by day, teacher and mentor by night.**  
 I create open-source learning resources focused on Azure, DevOps, .NET, automation, and cloud-native development.
 
-🎓 Over 2,000 students taught  
+🎓 Over 3,000 students taught  
 💡 Passionate about learning by doing  
 📦 Sharing practical tools, templates, and real-world examples  
 💬 Always open to questions, curiosity should be rewarded!
